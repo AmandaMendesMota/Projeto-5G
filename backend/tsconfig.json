@@ -1,0 +1,6 @@
+{
+    "compileOnSave": true, //compila o arquivo de ts para js
+    "compilerOptions": {
+        
+    }
+}

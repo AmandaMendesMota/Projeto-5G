@@ -1,0 +1,347 @@
+{
+    "station1": 
+    [
+        {
+            "id": "sensor 1 ",
+            "temperatureValue": 48,
+            "temperatureOff": false,
+            "humidity": 45,
+            "station": "1"
+        },
+        {
+            "id": "sensor 2",
+            "temperatureValue": 12,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 3",
+            "temperatureValue": 5,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 4",
+            "temperatureValue": 15,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 5",
+            "temperatureValue": 44,
+            "temperatureOff": false,
+            "humidity": 45,
+            "station": "1"
+        },
+        {
+            "id": "sensor 6",
+            "temperatureValue": 45,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 7",
+            "temperatureValue": 44,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 8",
+            "temperatureValue": 7,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 9",
+            "temperatureValue": 19,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 10",
+            "temperatureValue": 20,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 10",
+            "temperatureValue": 33,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 11",
+            "temperatureValue": 4,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 12",
+            "temperatureValue": 0,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 13",
+            "temperatureValue": 6,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }, 
+        {
+            "id": "sensor 14",
+            "temperatureValue": 50,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }, 
+        {
+            "id": "sensor 15",
+            "temperatureValue": 9,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }
+    ],
+    "station2": 
+    [
+        {
+            "id": "sensor 1 ",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 45,
+            "station": "1"
+        },
+        {
+            "id": "sensor 2",
+            "temperatureValue": 42,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 3",
+            "temperatureValue": 42,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 4",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 5",
+            "temperatureValue": 44,
+            "temperatureOff": false,
+            "humidity": 45,
+            "station": "1"
+        },
+        {
+            "id": "sensor 6",
+            "temperatureValue": 45,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 7",
+            "temperatureValue": 44,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 8",
+            "temperatureValue": 41,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 9",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 10",
+            "temperatureValue": 45,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 10",
+            "temperatureValue": 43,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 11",
+            "temperatureValue": 46,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 12",
+            "temperatureValue": 47,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 13",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }, 
+        {
+            "id": "sensor 14",
+            "temperatureValue": 42,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }, 
+        {
+            "id": "sensor 15",
+            "temperatureValue": 49,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }
+    ],
+    "station3": 
+    [
+        {
+            "id": "sensor 1 ",
+            "temperatureValue": 47,
+            "temperatureOff": false,
+            "humidity": 45,
+            "station": "1"
+        },
+        {
+            "id": "sensor 2",
+            "temperatureValue": 45,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 3",
+            "temperatureValue": 42,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 4",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 5",
+            "temperatureValue": 44,
+            "temperatureOff": false,
+            "humidity": 45,
+            "station": "1"
+        },
+        {
+            "id": "sensor 6",
+            "temperatureValue": 45,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 7",
+            "temperatureValue": 41,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 8",
+            "temperatureValue": 41,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 9",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 10",
+            "temperatureValue": 45,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 10",
+            "temperatureValue": 43,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 11",
+            "temperatureValue": 43,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 12",
+            "temperatureValue": 47,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        },
+        {
+            "id": "sensor 13",
+            "temperatureValue": 40,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "1"
+        }, 
+        {
+            "id": "sensor 14",
+            "temperatureValue": 42,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "3"
+        }, 
+        {
+            "id": "sensor 15",
+            "temperatureValue": 49,
+            "temperatureOff": false,
+            "humidity": 33,
+            "station": "3"
+        }
+    ]
+}
